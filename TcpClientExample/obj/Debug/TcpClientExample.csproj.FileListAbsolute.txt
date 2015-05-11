@@ -1,0 +1,10 @@
+c:\users\frank.kutzey\documents\visual studio 2012\Projects\TcpClientExample\TcpClientExample\bin\Debug\TcpClientExample.exe.config
+c:\users\frank.kutzey\documents\visual studio 2012\Projects\TcpClientExample\TcpClientExample\bin\Debug\TcpClientExample.exe
+c:\users\frank.kutzey\documents\visual studio 2012\Projects\TcpClientExample\TcpClientExample\bin\Debug\TcpClientExample.pdb
+c:\users\frank.kutzey\documents\visual studio 2012\Projects\TcpClientExample\TcpClientExample\obj\Debug\TcpClientExample.exe
+c:\users\frank.kutzey\documents\visual studio 2012\Projects\TcpClientExample\TcpClientExample\obj\Debug\TcpClientExample.pdb
+D:\Coding\TcpClientExample\TcpClientExample\bin\Debug\TcpClientExample.exe.config
+D:\Coding\TcpClientExample\TcpClientExample\obj\Debug\TcpClientExample.exe
+D:\Coding\TcpClientExample\TcpClientExample\obj\Debug\TcpClientExample.pdb
+D:\Coding\TcpClientExample\TcpClientExample\bin\Debug\TcpClientExample.exe
+D:\Coding\TcpClientExample\TcpClientExample\bin\Debug\TcpClientExample.pdb
